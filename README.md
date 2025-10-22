@@ -25,8 +25,8 @@ Users should be able to:
 
 ### 🔗 Links
 
-- **Solution URL:** [solution URL]()  
-- **Live Demo:** [site URL]()
+- **Solution URL:** [solution URL](https://github.com/saramx-dev/Huddle-landing-page)  
+- **Live Demo:** [site URL](https://saramx-dev.github.io/Huddle-landing-page/)
 
 ---
 
